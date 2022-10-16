@@ -13,6 +13,6 @@ export class Page3Component implements OnInit {
   }
   clickme()
   {
-    alert("page3 ready");
+    alert("hello...page3 is ready to go!");
   }
 }

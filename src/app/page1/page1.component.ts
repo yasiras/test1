@@ -12,7 +12,7 @@ export class Page1Component implements OnInit {
 
   ngOnInit(): void {
   }
-  title="joseph"
+  title="...page1 is ready to go!"
   clickme()
   {
     const service=new myservice;
