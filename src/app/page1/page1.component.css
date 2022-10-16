@@ -1,0 +1,14 @@
+.box1{
+    background-color: rgb(195, 21, 21);
+    width: 33vw;
+    height: 100vh;
+    font-family: cursive;
+    font-size: 3vw;
+    text-align: center;
+}
+
+.box11{
+    padding-top: 20vw;
+    width:33vw;
+    height:50vw;
+}

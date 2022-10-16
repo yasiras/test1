@@ -1,0 +1,16 @@
+.box3{
+    background-color: rgb(195, 21, 166);
+    width: 33vw;
+    height: 100vh;
+    font-family: cursive;
+    font-size: 3vw;
+    text-align: center;
+}
+/* h1{
+    margin-top: 100px;
+} */
+.box33{
+    padding-top: 20vw;
+    width:33vw;
+    height:50vw;
+}
